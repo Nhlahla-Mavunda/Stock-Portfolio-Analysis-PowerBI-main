@@ -40,5 +40,4 @@ Instead of relying on a single, dense flat file, the data was structured into a 
 
 ---
 
-## 📬 Connect with Me!
-* **LinkedIn:** [Refilwe Molelu](https://www.linkedin.com/in/refilwe-molelu-713379241)
+
